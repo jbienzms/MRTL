@@ -37,23 +37,23 @@ Microsoft employees **MUST** choose **Pro** and enter their serial number.
 
 ![](Images/License-Pro.png)
 
-If you are a Microsoft employee and do not have a Unity pro license, you can request a temporary license for this event [here](https://aka.ms/Unity-MR-License-Request).
+If you are a Microsoft employee and do not have a Unity Pro license, you can request a temporary license for this event [here](https://aka.ms/Unity-MR-License-Request).
 
 
 ## Install Unity Editor
-Finally, we can install the Unity editor. Go to the **Installs** tab and click **ADD**.
+Finally, we can install the Unity Editor. Go to the **Installs** tab and click **ADD**.
  
 ![](Images/Install-Add.png)
 
-In the window that pops up, pick the latest version that begins with **2020.3** and ends with **LTS**.
+In the **Add Unity Version** pop-up, select the latest version that begins with **2020.3** and ends with **LTS**.
 
 ![](Images/Install-LTS.png)
 
-**LTS** means "Long-Term Support", and these represent the most stable versions of Unity.
+**LTS** stands for "Long-Term Support" and represents the most stable versions of Unity.
 
 
-### Features
-When asked to select Unity features, use the following values:
+### Modules
+When asked to select Unity Modules, we recommend the following:
 
 ![](Images/Features.png)
 
@@ -63,4 +63,4 @@ When asked to select Unity features, use the following values:
 - **Windows Build Support (IL2CPP)** is *required* for HoloLens.
 - **Documentation** is available online and only needs to be installed for offline access.
 
-Click **Next** to install, and when complete Unity is ready for MR development.
+Click **Next** to install, and when complete Unity is ready for MR development!
