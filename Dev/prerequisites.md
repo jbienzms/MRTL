@@ -9,21 +9,21 @@ This page lists all of the prerequisites for participating in the Developer and 
 
 ## Azure
 
-- Employee Azure Access (Required)
-- Latest PowerShell (Recommended)
-- Azure for PowerShell (Recommended)
+- [Azure Account](https://portal.azure.com) (Required)
+- [Latest PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows) (Recommended)
+- [Azure for PowerShell](https://docs.microsoft.com/en-us/powershell/azure/) (Recommended)
 
 
 ## Source Control
 
-- GitHub account (Required)
-- Git for Windows (Required)
-- GitHub Desktop (Recommended)
+- [GitHub](https://github.com) account (Required)
+- [Git for Windows](https://gitforwindows.org) (Required)
+- [GitHub Desktop](https://desktop.github.com) (Recommended)
 
 
 ## Visual Studio
 
-- Visual Studio
+- See the [Visual Studio for MR](VSForMR) page for instructions on setting up Visual Studio.
 
 
 ## Unity
@@ -35,7 +35,7 @@ This page lists all of the prerequisites for participating in the Developer and 
 
 ## MRTK
 
-- MR Feature Tool (Required)
+- [MR Feature Tool](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unity/welcome-to-mr-feature-tool) (Required)
 
 
 ## MR Services
@@ -46,5 +46,5 @@ This page lists all of the prerequisites for participating in the Developer and 
 
 ## MR Services Tools
 
-- Azure Remote Rendering asset tool - ARRT (Required)
-- AOA Object Capture Tool (Required)
+- [Azure Remote Rendering asset tool](https://github.com/Azure/azure-remote-rendering-asset-tool) - ARRT (Required)
+- Object Capture Tool (Required)
