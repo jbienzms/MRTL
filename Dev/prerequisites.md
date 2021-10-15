@@ -23,14 +23,12 @@ This page lists all of the prerequisites for participating in the Developer and 
 
 ## Visual Studio
 
-- See the [Visual Studio for MR](VSForMR) page for instructions on setting up Visual Studio.
+- See the [Visual Studio for MR](VSForMR) page for help setting up Visual Studio for MR Development.
 
 
 ## Unity
 
-- Unity Hub (Required)
-- Unity 2020 LTS (Required)
-	- UWP Workload
+- See the [Unity for MR](UnityForMR) page for help setting up Unity for MR Development.
 
 
 ## MRTK
@@ -47,4 +45,4 @@ This page lists all of the prerequisites for participating in the Developer and 
 ## MR Services Tools
 
 - [Azure Remote Rendering asset tool](https://github.com/Azure/azure-remote-rendering-asset-tool) - ARRT (Required)
-- Object Capture Tool (Required)
+- Object Capture Tool (Required) Microsoft employees [see here](https://microsoftapc.sharepoint.com/teams/GlobalMRTSPs/_layouts/OneNote.aspx?id=%2Fteams%2FGlobalMRTSPs%2FSiteAssets%2FGlobal%20MR%20TSPs%20Notebook&wd=target%28MR%20Services%2FAOA.one%7C63BDFFDF-FC00-41EA-B4B9-3D5893FFDF0B%2FObject%20Capture%20Tool%7CBE6D68A0-F1E2-4D47-BA91-E916E80DAA01%2F%29).

@@ -1,6 +1,6 @@
 ![](Images/VSForMRBanner.png)
 
-This page will help you get Visual Studio configured for building Mixed Reality applications on HoloLens. Note that the installation can take from 30 minutes to multiple hours depending on your internet connection and computer.  
+This page will help you get Visual Studio configured for building Mixed Reality applications on HoloLens. Note that the installation can take anywhere from 30 minutes to multiple hours depending on your internet connection and computer.  
 
 
 ## Versions Supported
@@ -18,7 +18,7 @@ During the installation of Visual Studio, be sure to include the Workloads and O
 
 If any Workload or Feature is missed, it can be added later by going to **Windows Settings -> Apps -> Visual Studio** and clicking the **Modify** button.
 
-###.NET desktop development
+### .NET desktop development
 
 ![](Images/NET-Workload.png)
 
@@ -39,3 +39,6 @@ If any Workload or Feature is missed, it can be added later by going to **Window
 ![](Images/GameDev-Workload.png)
 
 ![](Images/GameDev-Features.png)
+
+
+When Visual Studio installation is complete, you can move on to setting up [Unity for MR](../UnityForMR).
