@@ -69,6 +69,4 @@ Click **Next** to install.
 
 ![](Images/UnityFirewall.png)
 
-{% endwarning %}
-
 When installation completes, Unity should be ready for MR development!
