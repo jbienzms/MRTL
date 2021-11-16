@@ -36,13 +36,8 @@ This page lists all of the prerequisites for participating in the Developer and 
 - [MR Feature Tool](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unity/welcome-to-mr-feature-tool) (Required)
 
 
-## MR Services
-
-- ASA SDK version 2.9 or later (Required)
-- ARR SDK (Required)
-
-
 ## MR Services Tools
 
+- [HEVC Codec](https://www.microsoft.com/en-us/p/hevc-video-extensions/9nmzlz57r3t7) - Optional on Windows 10 but helpful for low bandwidth or slower PCs.
 - [Azure Remote Rendering asset tool](https://github.com/Azure/azure-remote-rendering-asset-tool) - ARRT (Required)
-- Object Capture Tool (Required) Microsoft employees [see here](https://microsoftapc.sharepoint.com/teams/GlobalMRTSPs/_layouts/OneNote.aspx?id=%2Fteams%2FGlobalMRTSPs%2FSiteAssets%2FGlobal%20MR%20TSPs%20Notebook&wd=target%28MR%20Services%2FAOA.one%7C63BDFFDF-FC00-41EA-B4B9-3D5893FFDF0B%2FObject%20Capture%20Tool%7CBE6D68A0-F1E2-4D47-BA91-E916E80DAA01%2F%29).
+- [Object Capture Tool](https://microsoft.sharepoint.com/:f:/t/MRTechLift/EtKMVegPax1JocUmVAvPrDUBHNv5qTOjqJO3kX8x9rozRQ?e=xGiuQl) - for Microsoft employees only (Required)
