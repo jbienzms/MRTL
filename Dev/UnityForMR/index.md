@@ -65,9 +65,7 @@ When asked to select Unity Modules, we recommend the following:
 
 Click **Next** to install.
 
-{% warning %}
-
-**Warning:** The first time any new version of Unity Editor is launched, you'll likely be presented with a Windows Firewall dialog. Be sure to allow Unity Editor on **Public AND Private** networks. Otherwise, you may run into issues trying to use Azure Remote Rendering in the Unity Editor.
+{: .callout .warning} WARNING:The first time any new version of Unity Editor is launched, you'll likely be presented with a Windows Firewall dialog. Be sure to allow Unity Editor on **Public AND Private** networks. Otherwise, you may run into issues trying to use Azure Remote Rendering in the Unity Editor.
 
 ![](Images/UnityFirewall.png)
 
