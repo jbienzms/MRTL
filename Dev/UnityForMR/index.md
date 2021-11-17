@@ -67,6 +67,6 @@ Click **Next** to install.
 
 > [!WARNING] The first time Unity is launched, you'll likely be presented with a Windows Firewall dialog. Be sure to allow Unity Editor on **Public AND Private** networks, otherwise you may run into issues trying to use Azure Remote Rendering in the Unity Editor.
 >
->![](Images/UnityFirewall.png)
+>![Unity Firewall](Images/UnityFirewall.png)
 
 When installation completes, Unity should be ready for MR development!
