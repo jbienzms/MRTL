@@ -16,8 +16,8 @@ Now that all tools are installed and configured, we can build our first app.
 
 1. Complete all steps in the first module: [Introduction to Mixed Reality Toolkit - Create a Mars Curiosity Rover hologram](https://docs.microsoft.com/en-us/learn/modules/learn-mrtk-tutorials/) ***including* the knowledge check at the end.**
 
-## Success!
+## Success
 
-Congratulations, you just completed Day 1! If you'd like to continue learning, try completing other modules in the [HoloLens 2 Fundamentals](https://docs.microsoft.com/en-us/learn/paths/beginner-hololens-2-tutorials/) path. Just don't complete the [Azure Spatial Anchors]() module or you'll spoil **Day 2**!
+Congratulations, you just completed Day 1! If you'd like to continue learning, try completing other modules in the [HoloLens 2 Fundamentals](https://docs.microsoft.com/en-us/learn/paths/beginner-hololens-2-tutorials/) path. Just don't complete the [Azure Spatial Anchors]() module since we'll cover that on **Day 2**.
 
-See you tomorrow!
+**See you tomorrow!**
