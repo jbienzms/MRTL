@@ -20,6 +20,4 @@ Now that all tools are installed and configured, we can build our first app.
 
 Congratulations, you just completed Day 1! If you'd like to continue learning, try completing other modules in the [HoloLens 2 Fundamentals](https://docs.microsoft.com/en-us/learn/paths/beginner-hololens-2-tutorials/) path. Just don't complete the [Azure Spatial Anchors]() module or you'll spoil **Day 2**!
 
-<br/>
-
 See you tomorrow!
