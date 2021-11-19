@@ -16,6 +16,8 @@ Please decide as a team if you want to spend 60 minutes or 90 minutes on labs. W
 
 Every participant should complete the [Intro](#Intro-Lab-(Required)) lab below. If you complete the **Intro** lab quickly, you may also choose one of the [Intermediate](#Intermediate-Labs-(Optional)) or [Advanced](#Advanced-Labs-(Optional)) labs.
 
+> [!IMPORTANT] Remember, no matter what ASA version the lab suggests **always use Azure Spatial Anchors 2.11.0 or higher**. This is needed for OpenXR and Unity 2020.3+ compatibility.
+
 ### Intro Lab (Required)
 
 The most up-to-date sample we have for Azure Spatial Anchors is the [Azure Spatial Anchors Sample for OpenXR](https://github.com/microsoft/OpenXR-Unity-MixedReality-Samples/tree/main/AzureSpatialAnchorsSample). The sample does not contain full step-by-step instructions so we'll cover those here.

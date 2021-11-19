@@ -36,3 +36,11 @@ This page lists all of the prerequisites for participating in the Developer and 
 - [HEVC Codec](https://www.microsoft.com/en-us/p/hevc-video-extensions/9nmzlz57r3t7) - Optional on Windows 10 but helpful for low bandwidth or slower PCs.
 - [Azure Remote Rendering asset tool](https://github.com/Azure/azure-remote-rendering-asset-tool) - ARRT (Required)
 - [Object Capture Tool](https://microsoft.sharepoint.com/:f:/t/MRTechLift/EtKMVegPax1JocUmVAvPrDUBHNv5qTOjqJO3kX8x9rozRQ?e=xGiuQl) (Microsoft employees only)
+
+## MR Services SDKs
+
+The labs on each day will walk you through getting the SDK for that lab. However, it's important to know that no matter what SDK version is listed for ASA:
+
+**Always use Azure Spatial Anchors 2.11.0 or higher**
+
+This is necessary for OpenXR and Unity 2020.3+ compatibility.

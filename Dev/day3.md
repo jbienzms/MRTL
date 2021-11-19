@@ -22,9 +22,9 @@ Every participant should complete both labs in the [Intro](#Intro-Labs-(Required
 
 - [Convert a Model and View it in ARRT](https://docs.microsoft.com/en-us/azure/remote-rendering/quickstarts/convert-model) - This lab walks you through converting a model for use in Azure Remote Rendering. In this lab you have the option to use PowerShell or a tool called ARRT to do the conversion. Feel free to choose either approach, but you'll want to use the ARRT after the conversion is complete to preview the converted model.
 
-> [!Note] To complete the lab above you'll need a large 3D model - one that HoloLens can't render on it's own. Microsoft employees are welcome to use this [Matterport Scan](https://microsoft-my.sharepoint.com/:u:/p/jbienz/ERZVgYBp7FBCgcUCoUctNgQBkjqA40r3IHuFg6m4mJNSmw?e=2XI4Q9) of a home Jared used to own, but **don't distribute** this model without Jared's permission (jbienz@microsoft.com).
+> [!Note] To complete the lab above you'll need a large 3D model - one that HoloLens can't render on it's own. Microsoft employees are welcome to use this [Matterport Scan](https://microsoft-my.sharepoint.com/:u:/p/jbienz/ERZVgYBp7FBCgcUCoUctNgQBkjqA40r3IHuFg6m4mJNSmw?e=2XI4Q9) of a home Jared used to own, but **don't distribute** this model without Jared's permission ([jbienz@microsoft.com](mailto:jbienz@microsoft.com)).
 
-> [!IMPORTANT] If the 3D model your converting is a photogrammetry model, like the Matterport scan above, be sure to select "Unlit" textures during conversion. Unlit doesn't mean "no light". Unlit means that light is already baked into the 3D model so other light sources should be ignored.
+> [!IMPORTANT] If the 3D model your converting is a photogrammetry model, like the Matterport scan above, be sure to select "Unlit Materials" during conversion. Unlit doesn't mean "no light". Unlit means that light is already baked into the 3D model so other light sources should be ignored.
 > 
 ><img src="Images/ARRTUnlit.png" width=400>
 
@@ -40,9 +40,9 @@ Every participant should complete both labs in the [Intro](#Intro-Labs-(Required
 
 ## Team Hacks
 
-After labs it's time again for **Team Hacks**. Join your team channel and plan for **2.5 hours +** of hacking. Like yesterday, teams can go beyond this time at their discretion.
+After labs it's time again for **Team Hacks**. Join your team channel and plan for **2.5 hours+** of hacking. Like yesterday, teams can go beyond this time at their discretion.
 
-For reference, here's a link back to the [Project Descriptions](projects.md).
+For reference, here are the [Project Descriptions](projects.md).
 
 ## Important Links
 
