@@ -12,9 +12,9 @@ A copy of the presentation can be downloaded here: [Azure Spatial Anchors Techni
 
 ## Hands-On Labs
 
-Decide as a team how if you want to spend 60 minutes or 90 minutes on Hands-On Labs. Don't spending more than 90 minutes on labs or you won't have enough time to hack together as a team.
+Please decide as a team if you want to spend 60 minutes or 90 minutes on labs. We don't recommend spending more than 90 minutes on labs unless your whole team plans to extend their hack time together.
 
-At a minimum, each participant should complete the **Intro** lab below. If you complete the **Intro** lab quickly, you may also choose to complete one of the **Intermediate** or **Advanced** labs.
+Every participant should complete the [Intro](#Intro-Lab-(Required)) lab below. If you complete the **Intro** lab quickly, you may also choose one of the [Intermediate](#Intermediate-Labs-(Optional)) or [Advanced](#Advanced-Labs-(Optional)) labs.
 
 ### Intro Lab (Required)
 
