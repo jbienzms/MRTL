@@ -23,7 +23,7 @@ The most up-to-date sample we have for Azure Spatial Anchors is the [Azure Spati
 1. Follow the steps in [Create a Spatial Anchors Resource](https://docs.microsoft.com/en-us/azure/spatial-anchors/quickstarts/get-started-unity-hololens?tabs=azure-portal#create-a-spatial-anchors-resource) to add Azure Spatial Anchors to your Azure account. **Important:** Stop when you get to the step that instructs you to to download a Unity project. We won't use the Unity project linked in that guide, but **do** leave this page open. We'll need information from it later.
 1. Follow this link to go to the [OpenXR Unity Mixed Reality Samples](https://github.com/microsoft/OpenXR-Unity-MixedReality-Samples).
 1. Clone the **OpenXR Unity Mixed Reality Samples** to your machine. The easiest way to do this is by clicking on the **Code** button, then clicking on **Open in GitHub Desktop** and picking a place on your machine for the project to be cloned.
-<img src="Images/OpenXRSamplesGHDesktop.png" width=500>
+<img src="Images/OpenXRSamplesGHDesktop.png" width=400>
 1. Open **Unity Hub**, and on the **Projects** tab, click the **Add** button.
 ![OpenXR Samples Clone](Images/UHProjectAdd.png)
 1. In the dialog that pops up, go to the location where you cloned the project and be sure to go into the **AzureSpatialAnchorsSample** subfolder before clicking the **Select Folder** button.
