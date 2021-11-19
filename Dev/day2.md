@@ -14,7 +14,7 @@ A copy of the presentation can be downloaded here: [Azure Spatial Anchors Techni
 
 Please decide as a team if you want to spend 60 minutes or 90 minutes on labs. We don't recommend spending more than 90 minutes on labs unless your whole team plans to extend their hack time together.
 
-Every participant should complete the [Intro](#Intro-Lab-(Required)) lab below. If you complete the **Intro** lab quickly, you may also choose one of the [Intermediate](#Intermediate-Labs-(Optional)) or [Advanced](#Advanced-Labs-(Optional)) labs.
+Every participant should complete the [Intro](#intro-lab-required) lab below. If you complete the **Intro** lab quickly, you may also choose one of the [Intermediate](#intermediate-labs-optional) or [Advanced](#advanced-labs-optional) labs.
 
 > [!IMPORTANT] Remember, no matter what ASA version the lab suggests **always use Azure Spatial Anchors 2.11.0 or higher**. This is needed for OpenXR and Unity 2020.3+ compatibility.
 

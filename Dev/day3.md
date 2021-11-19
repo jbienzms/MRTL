@@ -14,7 +14,7 @@ A copy of the presentation can be downloaded here: [Azure Remote Rendering Techn
 
 Labs today are likely to take up to 90 minutes. We still don't recommend spending more than 90 minutes unless your team plans to extend hack time together.
 
-Every participant should complete both labs in the [Intro](#Intro-Labs-(Required)) section. These are fairly short. You should also complete one of the [Intermediate](#Intermediate-Labs-(Choose-One)) labs since these are where you'll see ARR models rendering on a HoloLens device. The [Advanced](#Advanced-Labs-(Optional)) labs are optional.
+Every participant should complete both labs in the [Intro](#intro-labs-required) section. These are fairly short. You should also complete one of the [Intermediate](#intermediate-labs-choose-one) labs since these are where you'll see ARR models rendering on a HoloLens device. The [Advanced](#advanced-labs-optional) labs are optional.
 
 ### Intro Labs (Required)
 

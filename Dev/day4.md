@@ -14,7 +14,7 @@ A copy of the presentation can be downloaded here: [Azure Object Anchors Technic
 
 Labs today are likely to take up to 90 minutes. We still don't recommend spending more than 90 minutes unless your team plans to extend hack time together.
 
-Every participant should complete labs in the [Intro](#Intro-Labs-(Required)) section. Participants should also complete at least one of the [Intermediate](#Intermediate-Labs-(Choose-One)) labs since these are where you'll see AOA working on a HoloLens device. There are currently no Advanced labs for AOA.
+Every participant should complete labs in the [Intro](#intro-labs-required) section. Participants should also complete at least one of the [Intermediate](#intermediate-labs-choose-one) labs since these are where you'll see AOA working on a HoloLens device. There are currently no Advanced labs for AOA.
 
 ### Intro Labs (Required)
 
