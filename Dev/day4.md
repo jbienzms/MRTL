@@ -24,9 +24,9 @@ Every participant should complete labs in the [Intro](#intro-labs-required) sect
 
 ### Intermediate Labs (Choose One)
 
-- [Create a HoloLens app with Unity](https://docs.microsoft.com/en-us/azure/object-anchors/quickstarts/get-started-unity-hololens?tabs=unity-package-web-ui) - Build and test a Unity app that anchor content to an Azure Object Anchor. Note that this lab repeats some steps which were already completed in the Intro lab and can be skipped.
+- [Create a HoloLens app with Unity](https://docs.microsoft.com/en-us/azure/object-anchors/quickstarts/get-started-unity-hololens?tabs=unity-package-web-ui) - Build and test a Unity app that anchors content with an Azure Object Anchor. Note that this lab repeats some steps which were already completed in the Intro lab and can be skipped.
 
-- [Create a HoloLens app with Unity and MRTK](https://docs.microsoft.com/en-us/azure/object-anchors/quickstarts/get-started-unity-hololens-mrtk?tabs=unity-package-web-ui) - This lab includes many more features than the Unity sample above, but also requires MRTK. Note that this lab also repeats some steps which were already completed in the Intro lab and can be skipped.
+- [Create a HoloLens app with Unity and MRTK](https://docs.microsoft.com/en-us/azure/object-anchors/quickstarts/get-started-unity-hololens-mrtk?tabs=unity-package-web-ui) - This lab includes many more features than the Unity sample above, but it also requires (works with) MRTK. Note that this lab also repeats some steps which were already completed in the Intro lab and can be skipped.
 
 ## Team Hacks
 
