@@ -4,9 +4,11 @@ This page will help you get Unity installed properly for building applications o
 
 
 ## Versions Supported
-It's *highly* recommended to use a LTS version of Unity 2020.3 or later. 
+For this event we will be using **Unity 2020.3.20f1**. 
 
-*Unity 2019 builds are **NOT** recommended.*
+Due to a [significant bug](https://forum.unity.com/threads/flickering-issue-affecting-hololens-2-projects-in-2020-3-21-and-later.1200199/) in Unity 2020.3.21f1 through 2020.3.23f1 these versions are *NOT* recommended for HoloLens development.
+
+Unity 2019 builds are *NOT* recommended due to incompatibilities with OpenXR.
 
 ## Install Unity Hub
 
@@ -37,7 +39,7 @@ Microsoft employees **MUST** choose **Pro** and enter their serial number.
 
 ![](Images/License-Pro.png)
 
-If you are a Microsoft employee and do not have a Unity Pro license, you can request a temporary license for this event [here](https://aka.ms/Unity-MR-License-Request).
+If you are a Microsoft employee and do not have a Unity Pro license, see [this page](msunity.md).
 
 
 ## Install Unity Editor
