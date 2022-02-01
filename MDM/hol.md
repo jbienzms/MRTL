@@ -10,3 +10,4 @@ The Hands On labs are structured to assist you in deploying HoloLens 2 with Intu
 2. [Provisioning a Wi-Fi Profile with Intune](Lab2.md)
 3. [Deploying a Line of Business App with Intune](Lab3.md)
 4.  
+5. [Kiosk Mode](lab5.md)
