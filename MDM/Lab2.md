@@ -13,7 +13,7 @@ The next instructions should be carried out on a Windows PC rather than a HoloLe
 ### Export Wi-Fi Settings from a Windows Device
 
 1)	Create a local folder for the exported Wi-Fi profiles such as “c:\wifi”.
-2)	From the start menu, navigate to “Command Prompt” and right click to select “Run as Administrator”.
+2)	From the start menu, navigate to “Command Prompt” and right click to select “Run as Administrator”.  
  ![](Images/lab21.png)    
 
   
@@ -86,15 +86,19 @@ Figure 6 - XML file uploaded and displayed in the read only editor
 
 ![](Images/lab31.png)
 
-Figure 7 - Assigning groups to the WiFi import configuration profile
+Figure 7 - Assigning groups to the WiFi import configuration profile  
+
  ![](Images/lab32.png)
 
-Figure 8 - Selected HoloLens Autopilot Devices group to be assigned
+Figure 8 - Selected HoloLens Autopilot Devices group to be assigned  
+
  ![](Images/lab33.png)
 
-Figure 9 - Profile assigned to the desired group  
+Figure 9 - Profile assigned to the desired group    
 
-7)	Complete the final review of the configuration profile and Select “Create”.
+
+7)	Complete the final review of the configuration profile and Select “Create”.  
+
  ![](Images/lab34.png)
 
 Figure 10 - Wifi configuration profile – summary – Review + Create  
