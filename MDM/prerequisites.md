@@ -133,3 +133,9 @@ Figure 20 - AutoPilot deployment profile properties
 
 ### Validation
 Within the Windows Autopilot Devices tab, validate that your device says has a profile status of “Assigned”. This may take up to 24 hours to show. 
+
+Please visit the link below for what Autopilot looks like when run on your device. https://docs.microsoft.com/en-us/hololens/hololens2-autopilot#windows-autopilot-for-hololens-2-user-experience
+
+To delete an autopilot profile see instructions here. https://docs.microsoft.com/en-us/mem/autopilot/add-devices#delete-autopilot-devices
+
+

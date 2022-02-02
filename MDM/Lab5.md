@@ -7,6 +7,8 @@
 
 In this lab we will set up a single app and multi app kiosk and we will look at the steps that differ between the two.
 
+*NOTE: This document will show how to set up a Single App Kiosk and a Multi App Kiosk. Do not apply both of these kiosk profiles to the same device assignment at the same time.  Remove the assignment from one of the profiles before loading autopilot on your device. If both profiles are assigned to the same device at the same time it will cause a conflict and neither will load on the device.*
+
 ## Preparation
 Before beginning the Kiosk creation piece of this lab we first must set up another Azure AD group. This group will include Azure AD user accounts who will be assigned to the Kiosk experience.
 

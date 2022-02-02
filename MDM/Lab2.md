@@ -28,7 +28,7 @@ a.	It is important that you then write down the name of the Wi-Fi profile you ar
 
  
 
-4)	In the command prompt then enter “netsh wlan export profile name="ProfileName" folder=c:\Wifi” where the ProfileName is the name of the wifi profile you previous had written down  
+4)	In the command prompt then enter “netsh wlan export profile name="ProfileName" key=clear folder=c:\Wifi” where the ProfileName is the name of the wifi profile you previous had written down  
 ![](Images/lab24.png)  
 
 
@@ -100,3 +100,5 @@ Figure 9 - Profile assigned to the desired group
 Figure 10 - Wifi configuration profile – summary – Review + Create  
 
 The profile is created and assigned. Feel free to assign this profile to further groups and users in the future.
+
+*Note: When you validate the Wi-fi profile by apply to an autopilot policy and running on the device there will be a remediation error which is expected and the correct result* [See Here for More Info](https://docs.microsoft.com/en-us/mem/intune/configuration/wi-fi-settings-import-windows-8-1#export-wi-fi-settings-from-a-windows-device)
