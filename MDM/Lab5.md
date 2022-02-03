@@ -227,7 +227,7 @@ Figure 29 - Kiosk - Multi app kiosk - Add store app
 
 12)	For the “Use alternative start layout”, “Windows taskbar” and “Allow access to downloads folder”, keep the default selections.
 
-13)	For the “Specify maintenance Window for App Restarts” move the toggle to Require. The Maintenance Window Start Time should be today’s date and set the time to 05:00:00 AM.
+13)	For the “Specify maintenance Window for App Restarts” move the toggle to Require. The Maintenance Window Start Time should be tomorrow’s date and set the time to 05:00:00 AM.
 
 14)	For “Maintenace Window Recurrence” leave the default selection of Daily (recommended).
 Click Next.
