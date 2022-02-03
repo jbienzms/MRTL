@@ -104,13 +104,13 @@ Figure 16 - Endpoint Manager Admin Portal  Devices/Enroll Devices/ Deployment
  ![](Images/PreReqFig17.png)  
 Figure 17 - Endpoint Manager Admin Portal  Devices/Enroll Devices/ Deployment Profiles --> Create Profile/HoloLens
  ![](Images/PreReqFig18.png)  
-Figure 18 - HoloLens AutoPilot profile summary  
+Figure 18 - HoloLens Autopilot profile summary  
 
-a.	Within the AutoPilot Deployment Profiles section, create a HoloLens deployment profile within the following settings:  
+a.	Within the Autopilot Deployment Profiles section, create a HoloLens deployment profile within the following settings:  
 
 | Setting | Configuration | Justification |
 | --- | --- | --- |
-| Name | HoloLens AutoPilot Profile |Name for the policy.|  
+| Name | HoloLens Autopilot Profile |Name for the policy.|  
 | Device Type  |HoloLens	 |Required
 | Deployment Mode |	Self-Deploying (Preview) |	Required |
 | Join to Azure AD As |	Azure AD Joined |	Required |
@@ -120,14 +120,14 @@ Microsoft Software License Terms |	Hide | 	Required
 | Hide Change Account Options |	Hide |	Required|
 | Privacy Settings |Hide |Required
 | Apply Device Name Template| Yes |	To create a naming convention for the devices
-| Enter a Name |MSFT-%RAND%	| To create a naming convention for the devices |
+| Enter a Name |MSFT-%RAND:4%	| To create a naming convention for the devices |
 | Assignment 
-| Include | HoloLens AutoPIlot Devices |	To apply to all HoloLens Devices | 
+| Include | HoloLens Autopilot Devices |	To apply to all HoloLens Devices | 
 
 The following is an example of how your properties could look in the portal:-
 
-![](Images/PreReqFig20.png) 
-Figure 20 - AutoPilot deployment profile properties
+![](Images/PreReqFig20a.png) 
+Figure 20 - Autopilot deployment profile properties
 
 **You want to make sure that when you assign this profile you got to the Included groups and you select the group you created**
 
