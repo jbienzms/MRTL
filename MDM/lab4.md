@@ -67,7 +67,7 @@ Figure 6 – Custom template - Configuration settings
 |Name	|Max Device Password Failed Attempts|
 |---|---|
 |Description|	-|
-|OMA-URI|	./Vendor/MSFT/Policy/Config/DeviceLock/MaxDevicePasswordFailedAttempts|
+|OMA-URI|	./Device/Vendor/MSFT/Policy/Config/DeviceLock/MaxDevicePasswordFailedAttempts|
 |Data Type|	Integer|
 |Value	|4|
 
@@ -75,32 +75,32 @@ Then click Save.
 
 NOTE: For Policy CSPs we follow the format to configure the policy :- 
 
-•	./Vendor/MSFT/Policy/Config/AreaName/PolicyName 
+•	./Device/Vendor/MSFT/Policy/Config/AreaName/PolicyName 
 
 In the example above AreaName = “DeviceLock” and PolicyName = “MaxDevicePasswordFailedAttempts”.
 
 
- ![](Images/Lab517.png)  
+ ![](Images/Lab417a.png)  
 Figure 7 - Custom template, Add Row, OMA-URI Settings  
 
 
 16)	Review the configuration settings, that have been added to this profile. If they are correct click Next.
 Note: When implementing for a customer multiple settings can be added here.  
 
-![](Images/Lab518.png)    	 
+![](Images/Lab418a.png)    	 
 Figure 8 - Custom - Max Device Password Failed – summary  
 
 
 17)	In Assignments, click Add groups. On the Select groups to include pane, select the HoloLens Autopilot Devices group and then click Select.  
 
-![](Images/Lab519.png)    
+![](Images/Lab419.png)    
 	 
 Figure 9 - Custom - Assignments - HoloLens Autopilot Devices  
 
 
 18)	Review the added group under Included groups. Click Next.
 
-![](Images/Lab520.png)     
+![](Images/Lab420.png)     
 Figure 10 - Custom - Assignments review groups  
  
 
@@ -108,12 +108,12 @@ Figure 10 - Custom - Assignments review groups
 
 *Note: If wanted to only apply these settings to a subset of devices you could create a Rule with specific properties in this pane.*
 
- ![](Images/Lab521.png)    
+ ![](Images/Lab421.png)    
 Figure 11 - Custom - Applicability Rules  
 
  
 20)	Review the Custom profile settings and if correct click Create.
 
-![](Images/Lab522.png)   
+![](Images/Lab422a.png)   
 Figure 12 - Custom - Review + create
 
